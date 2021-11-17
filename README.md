@@ -23,3 +23,16 @@ Another to close the modal and start a new timer
 
 ## Screenshot
 
+<img src="./src/assets/img/bomb1.png" style="width:400px;"/>  <img src="./src/assets/img/bomb2.png" style="width:400px;"/>
+
+## See the project
+
+You can view my project here [https://dubois-gael-pomodoro.vercel.app/](https://dubois-gael-pomodoro.vercel.app/)
+
+## Librairie / Toolkit
+
+[Google Fonts](https://fonts.google.com/) - Fonts
+
+
+## Auteurs
+**Gael Dubois**(https://github.com/DuboisGael)
